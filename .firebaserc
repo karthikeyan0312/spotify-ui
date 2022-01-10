@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "flutter-apps-7110a"
+  },
+  "targets": {
+    "flutter-apps-7110a": {
+      "hosting": {
+        "spotify_ui": [
+          "spotify-ui-flutter"
+        ]
+      }
+    }
+  }
+}
